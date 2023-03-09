@@ -1,0 +1,15 @@
+var close = parseFloat(document.getElementById("close").value);
+/*
+  const range = high - low;
+  const h5 = (high / low) * close;
+  const h4 = close + (range * 1.1) / 2;
+  const h3 = close + (range * 1.1) / 4;
+  const h2 = close + (range * 1.1) / 6;
+  const h1 = close + (range * 1.1) / 12;
+  const l1 = close - (range * 1.1) / 12;
+  const l2 = close - (range * 1.1) / 6;
+  const l3 = close - (range * 1.1) / 4;
+  const l4 = close - (range * 1.1) / 2;
+  const l5 = close - (h5 - close);
+
+*/
